@@ -42,3 +42,7 @@ View your site on `http://athena.ecs.csus.edu/~YOUR_ECS_NAME/`!
 In some cases, you may need to update the permissions of your deployed files on the first deploy. (It should be fine after that). To do so, ssh into Athena, cd into the html dir `$ cd html/` and run `$ chmod 744`.
 
 Please let me know if you run into any other issues so we can take a look and documment it.
+
+## Credits
+
+Thank you [@mgomez0]( https://github.com/mgomez0 ) for testing out this guide.
